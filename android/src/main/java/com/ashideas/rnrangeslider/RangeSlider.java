@@ -465,7 +465,7 @@ public class RangeSlider extends View {
             }
         }
 
-        if (labelStyle == LabelStyle.NONE || activeThumb == THUMB_NONE) {
+        if (labelStyle == LabelStyle.NONE) {
             return;
         }
 
